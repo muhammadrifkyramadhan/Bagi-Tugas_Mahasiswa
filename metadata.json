@@ -1,0 +1,6 @@
+{
+  "name": "SIM-Tugas - Sistem Pembagian & Monitoring Tugas Kelompok Mahasiswa",
+  "description": "Sistem Informasi Pembagian dan Monitoring Tugas Kelompok Mahasiswa Berbasis Web dengan manajemen peran, analitik kontribusi, kalender deadline, notifikasi otomatis, dan ekspor laporan.",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
